@@ -1,0 +1,8 @@
+{
+  "name": "concurrent-mode",
+  "version": "1.0.0",
+  "description": "Sandbox for new React Concurrent Mode",
+  "main": "index.js",
+  "author": "vovanezha",
+  "license": "MIT"
+}
