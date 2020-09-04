@@ -6,7 +6,7 @@
   "author": "vovanezha",
   "license": "MIT",
   "dependencies": {
-    "react": "^0.0.0-experimental-b53ea6ca0",
+    "react": "^16.13.1",
     "react-dom": "^0.0.0-experimental-b53ea6ca0"
   },
   "devDependencies": {
